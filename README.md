@@ -49,5 +49,5 @@ The dataset has been sourced from the Bureau of Infrastructure and Transport Res
 The dataset includes both historical and recent data. However, it's important to note that recent months' data might be preliminary and subject to revision.
 Caution should be exercised while interpreting and analyzing the data, considering the potential for revisions and the complexity of factors contributing to road accidents.
 ## Acknowledgements
-We extend our gratitude to the Bureau of Infrastructure and Transport Research Economics for compiling and providing this dataset. This dataset plays a crucial role in enabling in-depth analysis and insights into road safety trends and patterns in Australia.
+I extend my gratitude to the Bureau of Infrastructure and Transport Research Economics for compiling and providing this dataset. This dataset plays a crucial role in enabling in-depth analysis and insights into road safety trends and patterns in Australia.
 
