@@ -40,14 +40,14 @@ Click on the provided Image to access the Tableau dashboard:
   <img src="https://github.com/Anilk6/AU-Accident-Analysis-Dashboard/assets/151690691/ffc6a791-7245-4b8f-9b4e-03ed2627a648" style="max-width:100%;" alt="Tableau Dashboard">
 </a>
 
-Explore different visualizations by interacting with the filters and options provided within the dashboard.
-Gain insights into road accident trends based on various factors such as time, location, types of crashes, and more.
-Source
+<br>**Explore different visualizations by interacting with the filters and options provided within the dashboard.**<br>
+<br>**Gain insights into road accident trends based on various factors such as time, location, types of crashes, and more.**<br>
+## Source
 The dataset has been sourced from the Bureau of Infrastructure and Transport Research Economics (BITRE). BITRE is a key entity providing economic analysis, research, and statistics on infrastructure, transport, and cities. The dataset serves as a valuable resource for both policy development by the Australian government and for fostering a broader understanding within the community about road safety issues.
 
-Note
+## Note
 The dataset includes both historical and recent data. However, it's important to note that recent months' data might be preliminary and subject to revision.
 Caution should be exercised while interpreting and analyzing the data, considering the potential for revisions and the complexity of factors contributing to road accidents.
-Acknowledgements
+## Acknowledgements
 We extend our gratitude to the Bureau of Infrastructure and Transport Research Economics for compiling and providing this dataset. This dataset plays a crucial role in enabling in-depth analysis and insights into road safety trends and patterns in Australia.
 
