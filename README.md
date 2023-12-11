@@ -35,10 +35,9 @@ I've created an interactive dashboard using Tableau to visualize and analyze thi
 ### Instructions to Access the Dashboard:
 
 Click on the provided Image to access the Tableau dashboard:
-![dash_scrnsht](https://github.com/Anilk6/AU-Accident-Analysis-Dashboard/assets/151690691/ffc6a791-7245-4b8f-9b4e-03ed2627a648)(https://public.tableau.com/app/profile/anil.kandakatla/viz/Australian-AccidentData/Main?publish=yes)
 
 <a align="left" href="https://public.tableau.com/app/profile/anil.kandakatla/viz/Australian-AccidentData/Main?publish=yes" onclick="window.open(this.href, '_blank'); return false;">
-  <img src="https://github.com/Anilk6/AU-Accident-Analysis-Dashboard/assets/151690691/ffc6a791-7245-4b8f-9b4e-03ed2627a648" height="90"/ alt="LinkedIn Profile">
+  <img src="https://github.com/Anilk6/AU-Accident-Analysis-Dashboard/assets/151690691/ffc6a791-7245-4b8f-9b4e-03ed2627a648" style="max-width:100%;" alt="Tableau Dashboard">
 </a>
 
 Explore different visualizations by interacting with the filters and options provided within the dashboard.
